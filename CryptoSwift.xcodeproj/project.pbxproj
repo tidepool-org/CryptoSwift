@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 52;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -1239,6 +1239,45 @@
 			};
 			name = Test;
 		};
+		B4E7CFD12AD032E6009B4DF2 /* Testflight */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 75211FB020724A10004E41F8 /* Project-Debug.xcconfig */;
+			buildSettings = {
+			};
+			name = Testflight;
+		};
+		B4E7CFD22AD032E6009B4DF2 /* Testflight */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 75211FAF20724A10004E41F8 /* CryptoSwift-Debug.xcconfig */;
+			buildSettings = {
+			};
+			name = Testflight;
+		};
+		B4E7CFD32AD032E6009B4DF2 /* Testflight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Testflight;
+		};
+		B4E7CFD42AD032E6009B4DF2 /* Testflight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Testflight;
+		};
+		B4E7CFD52AD032E6009B4DF2 /* Testflight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Testflight;
+		};
+		B4E7CFD62AD032E6009B4DF2 /* Testflight */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				SDKROOT = iphoneos;
+			};
+			name = Testflight;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1246,6 +1285,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				75211FA1207249D8004E41F8 /* Debug */,
+				B4E7CFD32AD032E6009B4DF2 /* Testflight */,
 				75211FA2207249D8004E41F8 /* Release */,
 				75211FA3207249D8004E41F8 /* Test */,
 			);
@@ -1256,6 +1296,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				754BE46919693E190098E6F3 /* Debug */,
+				B4E7CFD12AD032E6009B4DF2 /* Testflight */,
 				754BE46A19693E190098E6F3 /* Release */,
 				756B66AA1F6AAFDB00DEC41C /* Test */,
 			);
@@ -1266,6 +1307,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				754BE46C19693E190098E6F3 /* Debug */,
+				B4E7CFD22AD032E6009B4DF2 /* Testflight */,
 				754BE46D19693E190098E6F3 /* Release */,
 				756B66AB1F6AAFDB00DEC41C /* Test */,
 			);
@@ -1276,6 +1318,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				754BE46F19693E190098E6F3 /* Debug */,
+				B4E7CFD42AD032E6009B4DF2 /* Testflight */,
 				754BE47019693E190098E6F3 /* Release */,
 				756B66AC1F6AAFDB00DEC41C /* Test */,
 			);
@@ -1286,6 +1329,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7564F05D2072EAEB00CA5A96 /* Debug */,
+				B4E7CFD62AD032E6009B4DF2 /* Testflight */,
 				7564F05E2072EAEB00CA5A96 /* Release */,
 				7564F05F2072EAEB00CA5A96 /* Test */,
 			);
@@ -1296,6 +1340,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7595C14F2072E48C00EA1A5F /* Debug */,
+				B4E7CFD52AD032E6009B4DF2 /* Testflight */,
 				7595C1502072E48C00EA1A5F /* Release */,
 				7595C1512072E48C00EA1A5F /* Test */,
 			);
